@@ -1,1 +1,1 @@
-pyhocon -i src/relative_clause_PPAJckQqbzI.conf
+pyhocon -i src/taekim_ch3_basic_grammar.conf
