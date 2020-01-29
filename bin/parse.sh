@@ -1,1 +1,1 @@
-pyhocon -i src/taekim_ch3_basic_grammar.conf
+pyhocon -i src/taekim/ch3_basic_grammar.conf
